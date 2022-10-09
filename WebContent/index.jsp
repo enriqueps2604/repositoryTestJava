@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h1>STRUTS 2.0; CRUD</h1>
+	<h1>STRUTS 2.0; CRUD prueba de git para proyecto que sigue </h1>
 	<br>
 	<form action="consulta.action" method="post">
 		<input type="submit" value="MODULO CRUD REGISTER"/>

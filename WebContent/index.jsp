@@ -12,6 +12,7 @@
 	<br>
 	<form action="consulta.action" method="post">
 		<input type="submit" value="MODULO CRUD REGISTER"/>
+		<p>para que esto pueda funcionar tenemos que prorbar mucho </p>
 	</form>
 
 </body>
